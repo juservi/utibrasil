@@ -8,7 +8,7 @@ https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ rede assistencial / CN
 
 CNES é a sigla para Cadastro Nacional de Estabelecimentos de Saúde
 
-O arquivo foi gerado com a linha 'Município', coluna 'leitos complementares', conteúdo 'quantidade existente' e período 'fevereiro de 2020'.
+O arquivo foi gerado com a linha 'Município', coluna 'leitos complementares', conteúdo 'quantidade existente' e período 'fevereiro de 2020'. Quantidade existente reúne rede pública e particular.
 
 Neste dataset constam as seguintes colunas:
 
