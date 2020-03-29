@@ -22,4 +22,6 @@ Para este estudo foram removidas as colunas com UTIs neonatais e mantidas apenas
 
 O dataset final foi um merge do arquivo do Datasus com outro que possui as coordenadas dos municípios para fazer a visualização no mapa.
 
+Fonte do dataset de coordenadas https://github.com/kelvins/Municipios-Brasileiros
+
 Este estudo aceita sugestões de melhorias, apontamento de correções e demais observações. Meu e-mail é juservi@gmail.com 
