@@ -4,6 +4,8 @@ Visualização das UTIs e unidades de isolamento por cidade utilizando a bibliot
 
 O resultado é este: http://www.pythonfun.com.br/utis_brasil.html
 
+Círculos em vermelho indicam que o município não possui (ou não possuia) nenhum leito de UTI. Círculos em azul indicam a presença de pelo menos um leito de algum tipo, adulto ou pediátrica. 
+
 A base de dados foi obtida no site do Datasus e seguiu este caminho:
 
 https://datasus.saude.gov.br/informacoes-de-saude-tabnet/ rede assistencial / CNES - Recursos físicos / Hospitalar - leitos complementares
