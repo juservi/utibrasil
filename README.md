@@ -1,6 +1,8 @@
 # utibrasil
 
-Visualização das UTIs e unidades de isolamento por cidade utilizando a biblioteca Folium com informações baseadas no Datasus. Motivação do estudo: pandemia da COVID-19
+Visualização das UTIs e unidades de isolamento por cidade utilizando a biblioteca Folium com informações baseadas no Datasus. Motivação do estudo: pandemia da COVID-19.
+
+O resultado é este: http://www.pythonfun.com.br/utis_brasil.html
 
 A base de dados foi obtida no site do Datasus e seguiu este caminho:
 
@@ -23,5 +25,7 @@ Para este estudo foram removidas as colunas com UTIs neonatais e mantidas apenas
 O dataset final foi um merge do arquivo do Datasus com outro que possui as coordenadas dos municípios para fazer a visualização no mapa.
 
 Fonte do dataset de coordenadas https://github.com/kelvins/Municipios-Brasileiros
+
+Obs: este estudo foi feito no início da pandemia no Brasil e não está com o número de leitos atualizado. 
 
 Este estudo aceita sugestões de melhorias, apontamento de correções e demais observações. Meu e-mail é juservi@gmail.com 
